@@ -1,0 +1,6 @@
+Checklist réparation téléphone :
+1. Vérifier écran
+2. Tester batterie
+3. Contrôler boutons
+4. Nettoyer connecteurs
+
